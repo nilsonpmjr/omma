@@ -1,0 +1,111 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logotipo {
+    background-color: #FFC107;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    position: relative;
+    z-index: 1;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+}
+
+.nav {
+    text-align: center;
+    background-color: #FFA000;
+    box-sizing: 48px;
+    align-items: center;
+    font-weight: 700;
+}
+
+nav li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin: auto 29px;
+    line-height: 45px;
+}
+
+main>article {
+    padding: 90px auto;
+}
+
+article>h1 {
+    color: #FFA000;
+    font-weight: 700;
+    font-size: 40px;
+    text-transform: lowercase;
+    margin: 104px 90px 69px;
+}
+
+.receitas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.link-receita {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 345px;
+    margin: 0 30px 60px 30px;
+}
+
+.link-receita img {
+    width: 345px;
+    height: 342px;
+    display: block;
+    margin: 0 0 12px;
+}
+
+.link-receita span {
+    display: block;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 550;
+    text-transform: lowercase;
+    margin: 0 0 24px;
+}
+
+.link-receita a {
+    color: #FFFFFF;
+    background: #176902;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0px 90px 60px 90px;
+    padding: 10px 43px;
+    text-transform: lowercase;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: #FFC107;
+    position: absolute;
+
+    left: 0px;
+    top: 2397;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    box-sizing: 119px;
+}
+
+.footer img {
+    margin: 30px;
+
+}
+
+.footer p {
+    font-weight: 700;
+    font-size: 18px; 
+    text-transform: lowercase;   
+}

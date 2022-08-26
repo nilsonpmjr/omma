@@ -1,0 +1,363 @@
+body {
+    background: #E5E5E5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.logotipo {
+    background: #FFC107;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    position: relative;
+    z-index: 1;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+}
+
+.nav {
+    text-align: center;
+    background-color: #FFA000;
+    box-sizing: 48px;
+    align-items: center;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin: auto 29px;
+    line-height: 45px;
+}
+
+.risoto {
+/* Risoto de abobora */
+
+
+position: absolute;
+width: 462px;
+height: 61px;
+left: 120px;
+top: 272px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+
+text-transform: lowercase;
+
+color: #FFA000;
+}
+
+.relacionadas {
+/* receitas relacionadas */
+
+
+position: absolute;
+width: 321px;
+height: 37px;
+left: 904px;
+top: 320px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+text-transform: lowercase;
+
+color: #FFA000;
+}
+
+
+.ingrediente {
+/* Ingredientes 1/2 kg de abóbora tipo kabotchá 2 colheres (sopa) de azeite 1 cebola média bem picada 1 dente de alho picado 3 colheres (sopa) de cebolinha verde picada 1/2 xícara (chá) de vinho banco seco 2 xícaras (chá) de arroz arbóreo 2 tabletes de caldo de galinha 1 colher (chá) de ervas finas 1 colher (café) de gengibre 1 folha de louro 2 colheres (sopa) de manteiga sem sal 50 g de queijo parmesão ralado Salsinha picada a gosto Pimenta a gosto vídeo */
+
+
+position: absolute;
+width: 592px;
+height: 480px;
+left: 128px;
+top: 786px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+text-transform: lowercase;
+
+color: #000000;
+}
+
+.preparo {
+/* Modo de Preparo escasque a abóbora e corte-a em cubinhos pequenos. Reserve. Coloque o azeite em uma panela funda e acrescente a cebola e o alho picados e leve ao fogo baixo até que a cebola e o alho murchem, mexendo sem parar. Adicione a cebolinha verde e a abóbora picada e deixe refogar por uns 3 minutos, mexendo sempre. Adicione o vinho branco e deixe cozinhar por uns 2 minutos. Adicione 2 xícaras de chá de água fervente e os tabletes de caldo de galinha e deixe cozinhar para que a abóbora fique ligeiramente macia, por uns 10 minutos em fogo baixo. Aumente o fogo e acrescente o arroz arbóreo. Mexa bem e deixe levantar fervura. Acrescente as ervas finas, o gengibre e a folha de louro. Diminua a chama do fogão e sempre mexendo vá acrescentando água fervente quanto necessário. Leva em média de 15 a 20 minutos para adquirir o ponto cremoso. Quanto estive al dente acrescente a manteiga e o queijo parmesão ralado. Experimente o sal e acrescente pimenta a gosto. Desligue o fogo e tampe a panela. Deixe descansar por uns 5 minutos. Sirva regado com queijo parmesão ralado e salsinha picada. */
+
+
+position: absolute;
+width: 592px;
+height: 576px;
+left: 128px;
+top: 1745px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+text-transform: lowercase;
+
+color: #000000;
+}
+
+.abobora {
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 592px;
+height: 311px;
+left: 120px;
+top: 400px;
+
+background: #C4C4C4;
+}
+
+iframe {
+    position: absolute;
+    width: 580px;
+    height: 317px;
+    left: 120px;
+    top: 1353px;
+
+}
+
+
+.facil {/* fácil */
+
+
+position: absolute;
+width: 74px;
+height: 17px;
+left: 130px;
+top: 704px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 29px;
+text-align: center;
+text-transform: lowercase;
+
+color: #176902;}
+
+.facil {/* Rectangle 5 */
+
+
+position: absolute;
+width: 90px;
+height: 31px;
+left: 130px;
+top: 729px;
+
+border: 1px solid #176902;
+box-sizing: border-box;
+border-radius: 47px;}
+
+.serve {/* serve 4 pessoas */
+
+
+    position: absolute;
+    width: 152.67px;
+    height: 17px;
+    left: 254.63px;
+    top: 704px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 29px;
+    text-align: center;
+    text-transform: lowercase;
+    
+    color: #176902;
+}
+
+.serve {/* Rectangle 5 */
+
+
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 234px;
+    top: 729px;
+    
+    border: 1px solid #176902;
+    box-sizing: border-box;
+    border-radius: 47px;}
+
+
+
+.rectangle31 {
+    /* Rectangle 31 */
+
+
+position: absolute;
+width: 345px;
+height: 411px;
+left: 904px;
+top: 407px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.moqueca {
+    /* moqueca */
+
+
+position: absolute;
+width: 466px;
+height: 64px;
+left: -55px;
+top: 359px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 32px;
+text-align: center;
+text-transform: lowercase;
+
+color: #000000;
+
+}
+
+.rectangle2 {
+    /* Rectangle 2 */
+
+
+position: absolute;
+width: 345px;
+height: 342px;
+left: 0px;
+top: 0px;
+
+}
+.boloimg {
+    /* Rectangle 2 */
+
+
+position: absolute;
+width: 345px;
+height: 342px;
+left: 0px;
+top: 0px;
+
+}  
+
+.bolo {
+/* bolo de banana */
+
+
+position: absolute;
+width: 208px;
+height: 32px;
+left: 60px;
+top: 359px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+text-align: center;
+text-transform: lowercase;
+
+color: #000000;
+}
+.bolobanana {
+    /* Rectangle 31 */
+
+
+position: absolute;
+width: 345px;
+height: 411px;
+left: 904px;
+top: 873px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.tabule {
+    /* Rectangle 30 */
+
+
+position: absolute;
+width: 345px;
+height: 411px;
+left: 907px;
+top: 1374px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.tabuletxt {
+    /* tabule tradicional */
+
+
+position: absolute;
+width: 237px;
+height: 32px;
+left: 55px;
+top: 359px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+text-align: center;
+text-transform: lowercase;
+
+color: #000000;
+
+}
+
+.rodape {
+    background-color: #FFC107;
+    position: absolute;
+
+    left: 0px;
+    top: 2397px;
+    width: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+    box-sizing: 119px;
+}
+
+.rodape img {
+    margin-right: 30px;
+}
